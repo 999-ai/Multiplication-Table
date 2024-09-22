@@ -1,2 +1,2 @@
-# Multiplication-Table
+Multiplication Table//Project//Phyton
 Multiplication Table
